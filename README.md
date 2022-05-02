@@ -1,1 +1,2 @@
 # PDF_MergeTwo
+# A code that allows the user to access two particular PDF files and allow the documents to be merged together to create a new PDF file based on the merger. Maily focused on the pypdf2 library which allows us to access the associated PDF file(s) while allowing us to merger the associated documents together to create an entirely new PDF file within the operating system by accessing documents via an os library search.
